@@ -15,6 +15,12 @@ Automated SLA Monitoring System tracks ticket response times, calculates SLA com
 
 ---
 
+## 📊 Workflow Diagram
+
+![SLA Monitoring Workflow](assets/workflow.png)
+
+---
+
 ## ✨ Key Features
 
 - ✅ **Real-Time SLA Tracking** - Monitor all tickets continuously
